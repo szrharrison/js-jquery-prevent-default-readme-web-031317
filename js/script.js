@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  
+
   // browser refreshes on submit
   $('form').on('submit', function(){
     var name = $('#name').val();
